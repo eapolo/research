@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'assets/img/universityofseville.png',
         'assets/img/universityofugent.png',
         'assets/img/universityofwageningen.jpeg',
-        'assets/img/universityofkuleven.webp'
+        'assets/img/universityofkuleven.webp',
         // Add more icon paths as needed
     ];
 
