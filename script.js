@@ -1,7 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     const icons = [
         'assets/img/universityofseville.png',
-        'university-icon1.png',
+        'assets/img/universityofugent.png',
+        'universityofwageningen.jpeg',
         // Add more icon paths as needed
     ];
 
