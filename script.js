@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const icons = [
         'assets/img/universityofseville.png',
         'assets/img/universityofugent.png',
-        'universityofwageningen.jpeg',
+        'assets/img/universityofwageningen.jpeg',
         // Add more icon paths as needed
     ];
 
