@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const gallery = document.getElementById('iconGallery');
         gallery.innerHTML = ''; // Clear current icons
 
-        // Shuffle array and take the first 3 items
-        const shuffledIcons = icons.sort(() => 0.5 - Math.random()).slice(0, 4);
+        // Shuffle array and take the first 6 items
+        const shuffledIcons = icons.sort(() => 0.5 - Math.random()).slice(0, 6);
 
         // Add the selected icons to the gallery
         shuffledIcons.forEach(icon => {
