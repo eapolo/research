@@ -19,6 +19,6 @@
 }
 
 .pdf-download::before {
-  content: url('path_to_your_pdf_icon.png'); /* Replace 'path_to_your_pdf_icon.png' with the actual path to your PDF icon image */
+  content: url('pdf.png'); /* Replace 'path_to_your_pdf_icon.png' with the actual path to your PDF icon image */
   margin-right: 8px;
 }
