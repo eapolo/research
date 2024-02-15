@@ -29,3 +29,37 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initial update
     updateGallery();
 });
+
+
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  const container = document.querySelector('.blog-container');
+  let items = Array.from(container.children);
+
+  // Sort items by date
+  items.sort((a, b) => new Date(b.getAttribute('data-date')) - new Date(a.getAttribute('data-date')));
+
+  // Initially display only the three most recent entries
+  const visibleCount = 3;
+  items.forEach((item, index) => {
+    item.style.display = index < visibleCount ? 'block' : 'none'; // Ensure older entries are hidden
+  });
+
+  // Append sorted items back to the container
+  items.forEach(item => container.appendChild(item));
+
+  // "View History" button functionality
+  const viewHistoryBtn = document.getElementById('view-history');
+  viewHistoryBtn.addEventListener('click', function() {
+    // Show all items
+    items.forEach(item => {
+      item.style.display = 'block';
+    });
+    // Hide the "View History" button
+    viewHistoryBtn.style.display = 'none';
+  });
+});
+
+
+
