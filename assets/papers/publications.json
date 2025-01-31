@@ -4,8 +4,27 @@
         "author": "O.E. Apolo-Apolo and J. Mart\u00ednez-Guanter and G. Egea and P. Raja and M. P\u00e9rez-Ruiz",
         "year": "2020",
         "journal": "European Journal of Agronomy",
-        "conference": "",
-        "publisher": "",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1161030120300381",
+        "type": "article"
+    },
+
+
+        {
+        "title": "Deep learning techniques for estimation of the yield and size of citrus fruits using a UAV",
+        "author": "O.E. Apolo-Apolo and J. Mart\u00ednez-Guanter and G. Egea and P. Raja and M. P\u00e9rez-Ruiz",
+        "year": "2020",
+        "journal": "European Journal of Agronomy",
+        "doi": "https://doi.org/10.1016/j.eja.2020.126030",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1161030120300381",
+        "type": "article"
+    },
+
+        {
+        "title": "Deep learning techniques for estimation of the yield and size of citrus fruits using a UAV",
+        "author": "O.E. Apolo-Apolo and J. Mart\u00ednez-Guanter and G. Egea and P. Raja and M. P\u00e9rez-Ruiz",
+        "year": "2020",
+        "journal": "European Journal of Agronomy",
+
         "doi": "https://doi.org/10.1016/j.eja.2020.126030",
         "url": "https://www.sciencedirect.com/science/article/pii/S1161030120300381",
         "type": "article"
@@ -15,11 +34,9 @@
         "author": "Maheswari, Prabhakar  and Raja, Purushothaman  and Apolo-Apolo, Orly Enrique  and P\u00e9rez-Ruiz, Manuel ",
         "year": "2021",
         "journal": "Frontiers in Plant Science",
-        "conference": "",
-        "publisher": "",
         "doi": "10.3389/fpls.2021.684328",
         "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.684328",
-        "type": "article"
+        "type": "bookchapter"
     },
 
         {
@@ -27,8 +44,7 @@
         "author": "Maheswari, Prabhakar  and Raja, Purushothaman  and Apolo-Apolo, Orly Enrique  and P\u00e9rez-Ruiz, Manuel ",
         "year": "2021",
         "journal": "Frontiers in Plant Science",
-        "conference": "",
-        "publisher": "",
+
         "doi": "10.3389/fpls.2021.684328",
         "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.684328",
         "type": "book"
@@ -43,7 +59,7 @@
         "publisher": "",
         "doi": "10.3389/fpls.2021.684328",
         "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.684328",
-        "type": "inproceedings"  
+        "type": "proceedings"  
     },
 
 
@@ -53,6 +69,6 @@
         "year": "2021",
         "journal": "Frontiers in Plant Science",
         "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.684328",
-        "type": "bookchapter"  
+        "type": "incollection"  
     }
 ]
